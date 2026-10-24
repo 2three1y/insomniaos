@@ -2,7 +2,7 @@
 
 A cozy retro desktop for 4 AM. Boot it up, mix a sleep soundscape, count some sheep, jot down what's keeping you awake, watch the stars, then shut down gently.
 
-**Live (GitHub Pages):** https://2three1y.github.io/insomnia-os/
+**Live (GitHub Pages):** https://2three1y.github.io/insomniaos/
 
 ## What's inside
 - 🌧️ **Soundscape.exe**: rain, fan hum, old computer whir (with hard-drive chatter) and crickets, all synthesized live with the Web Audio API. No audio files. Each channel has its own labelled volume slider, plus presets and a **Master volume** slider that goes up to 150% (remembered). A compressor and limiter sit before the speakers, so even 150% never clips.
